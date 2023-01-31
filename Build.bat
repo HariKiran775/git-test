@@ -1,0 +1,1 @@
+echo 'Building the file at %time% and %date%'

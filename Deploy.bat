@@ -1,0 +1,1 @@
+echo 'This is getting deployed at %date% and %time%' 
